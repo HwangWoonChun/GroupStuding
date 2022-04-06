@@ -1,7 +1,7 @@
 ## 기초
 
 1. Swift 지원영역
-  *. iOS, macOS, wathchOS, tvOS
+ iOS, macOS, wathchOS, tvOS
   
 2. 지원 타입
   *. Int, Double, Float, Bool, String
