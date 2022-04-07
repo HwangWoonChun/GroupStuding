@@ -1,15 +1,7 @@
-## 기초
+## 카카오페이
 
-# Swift 지원영역
- 1. iOS, macOS, wathchOS, tvOS
-  
-# 지원 타입
- 1. Int, Double, Float, Bool, String
- 2. Array, Set, Dictioanary
-  
-# 변수와 상수
+1. 스크롤에 따라 사진이 자동으로 페이지 로드 되어야 합니다.
 
-# 튜플
+2. 사진을 터치하면 해당 사진의 상세 화면이 나탑니다.
 
-# 스위프트의 특징
- 1. 안정성 - 값의 부재
+3. 사진 관련 API 는 https://unsplash.com/developers 를 참조하시길 바랍니다.
