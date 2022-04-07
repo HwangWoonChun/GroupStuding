@@ -8,7 +8,6 @@
   2. 사진을 터치하면 해당 사진의 상세 화면으로 이동합니다.
   3. pod 사용금지
   4. 관련 API 는 https://unsplash.com/developers 를 참조하시길 바랍니다.
-  5. 과제는 2022-04-10 24:00 까지 mmxsound077@gmail.com 으로 전송
 
 # 참고
 
